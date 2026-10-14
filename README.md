@@ -1,4 +1,4 @@
-# 30-Day CSS Animation Challenge 🚀
+# 30-Day CSS Animation Challenge 🚀 
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://varshajangid07.github.io/30-Day_UI_Challenge/)
 
